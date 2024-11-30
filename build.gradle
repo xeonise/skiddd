@@ -7,7 +7,7 @@ group = 'net.example'
 version = '1.8.9'
 
 project.ext.lwjglVersion = "3.3.4"
-project.ext.lwjglNatives = "natives-windows"
+project.ext.lwjglNatives = "natives-linux"
 
 repositories {
     mavenCentral()
